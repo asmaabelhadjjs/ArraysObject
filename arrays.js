@@ -32,3 +32,8 @@ console.log(number);
 }
 console.log (personne);
 
+//ex 7
+var person = {
+    name : "John", age : 25,
+}
+console.log(person);
