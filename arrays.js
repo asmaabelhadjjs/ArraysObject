@@ -26,3 +26,9 @@ console.log(number);
  élèments.pop();
  console.log(élèments);
  
+ //ex 6
+ var personne = { 
+    name: "asmaa", age: 39,
+}
+console.log (personne);
+
