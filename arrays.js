@@ -7,4 +7,10 @@ console.log(number);
  console.log(elements[1]);
  
  
-
+ //ex 3
+ let nombre =[10, 20, 30, 40];
+ console.log(nombre);
+ nombre[2]= 50;
+ console.log(nombre);
+ 
+ 
