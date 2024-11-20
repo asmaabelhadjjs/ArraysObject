@@ -13,4 +13,11 @@ console.log(number);
  nombre[2]= 50;
  console.log(nombre);
  
+ //ex 4
+ let fruits =["mango", "peach", "pear"];
+ console.log(fruits);
+ fruits[3]="orange";
+ console.log(fruits);
+ 
+ 
  
