@@ -20,4 +20,9 @@ console.log(number);
  console.log(fruits);
  
  
+ //ex 5
+ let élèments=["dog", "cat", "bird"];
+ console.log(élèments);
+ élèments.pop();
+ console.log(élèments);
  
